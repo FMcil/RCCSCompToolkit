@@ -34,3 +34,16 @@ Please feel free to contribute.
 - [RDKit](https://www.rdkit.org/) - Computatoinal chemistry toolkit
 - [MOFDScribe](https://github.com/kjappelbaum/mofdscribe) - MOF characterisation toolkit
 - [moffragmentor](https://github.com/kjappelbaum/moffragmentor) - MOF fragementor toolkit
+
+## Python
+
+- [Setup: Python, conda, VSCode](https://fmcilwaine.notion.site/Instructions-for-computational-setup-d0adba9746684d52b940ee2a6e31ebf1?pvs=4) - Setting up Python + VSCode + Anaconda on a HW-managed laptop
+
+## Cluster
+
+- [dmog](https://dmogdocs.readthedocs.io/en/latest/) - HW HPC
+- [Linux explainer tool](https://explainshell.com/explain?cmd=ls+-lah) - Quick access to relevant documentation on linux commands
+
+<!-- ## RCCS tools -->
+
+<!-- - [Breakthrough analyser](https://github.com/FMcil/AdsorptionBreakthroughAnalysis) - Breakthrough analysis script for breakthrough rig -->
