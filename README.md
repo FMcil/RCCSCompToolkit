@@ -4,6 +4,10 @@ This repo contains tools and resources used by the RCCS research group.
 
 Please feel free to contribute.
 
+## Setup
+
+- [Setup: Python, conda, VSCode](https://fmcilwaine.notion.site/Instructions-for-computational-setup-d0adba9746684d52b940ee2a6e31ebf1?pvs=4) - Setting up Python + VSCode + Anaconda on a HW-managed laptop
+
 ## Visualisation
 
 - [Seaborn](https://seaborn.pydata.org/) - Quick and pretty plots, without the legwork of matplotlib (but all the customizability)
@@ -34,10 +38,6 @@ Please feel free to contribute.
 - [RDKit](https://www.rdkit.org/) - Computatoinal chemistry toolkit
 - [MOFDScribe](https://github.com/kjappelbaum/mofdscribe) - MOF characterisation toolkit
 - [moffragmentor](https://github.com/kjappelbaum/moffragmentor) - MOF fragementor toolkit
-
-## Python
-
-- [Setup: Python, conda, VSCode](https://fmcilwaine.notion.site/Instructions-for-computational-setup-d0adba9746684d52b940ee2a6e31ebf1?pvs=4) - Setting up Python + VSCode + Anaconda on a HW-managed laptop
 
 ## Cluster
 
