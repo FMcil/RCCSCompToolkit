@@ -4,17 +4,16 @@ This repo contains tools and resources used by the RCCS research group.
 
 Please feel free to contribute.
 
-## Latex
-
-- [HW thesis template](https://github.com/AlexandreCoates/HW_LaTex_thesis_template) - A latex template with HW specifiations  
-- [Table generator](https://www.tablesgenerator.com/) - Create latex tables easily 
-
-
 ## Visualisation
 
 - [Seaborn](https://seaborn.pydata.org/) - Quick and pretty plots, without the legwork of matplotlib (but all the customizability)
 - [Plotly](https://plotly.com/python/) - Quick interactive plots (hover over, select points, etc.)
 - [Bokeh](https://docs.bokeh.org/) - Interactive plots (hover over, select points, etc.)
+
+## Latex
+
+- [HW thesis template](https://github.com/AlexandreCoates/HW_LaTex_thesis_template) - A latex template with HW specifiations  
+- [Table generator](https://www.tablesgenerator.com/) - Create latex tables easily 
 
 ## ML
 
