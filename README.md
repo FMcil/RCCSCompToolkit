@@ -44,7 +44,7 @@ Please feel free to contribute.
 - [dmog](https://dmogdocs.readthedocs.io/en/latest/) - HW HPC
 - [Linux explainer tool](https://explainshell.com/explain?cmd=ls+-lah) - Quick access to relevant documentation on linux commands
 
-## RCCS tools
+<!-- ## RCCS tools -->
 
-- [Breakthrough analyser](https://github.com/FMcil/AdsorptionBreakthroughAnalysis) - Breakthrough analysis script for breakthrough rig
+<!-- - [Breakthrough analyser](https://github.com/FMcil/AdsorptionBreakthroughAnalysis) - Breakthrough analysis script for breakthrough rig -->
 <!-- - [How-to-guide](https://github.com/FMcil/x) - x -->
