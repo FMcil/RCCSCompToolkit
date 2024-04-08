@@ -35,7 +35,7 @@ Please feel free to contribute.
 
 ## Computational chemistry
 
-- [RDKit](https://www.rdkit.org/) - Computatoinal chemistry toolkit
+- [RDKit](https://www.rdkit.org/) - Computational chemistry toolkit
 - [MOFDScribe](https://github.com/kjappelbaum/mofdscribe) - MOF characterisation toolkit
 - [moffragmentor](https://github.com/kjappelbaum/moffragmentor) - MOF fragementor toolkit
 
