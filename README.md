@@ -41,7 +41,7 @@ Please feel free to contribute.
 
 ## Cluster
 
-- [dmog](https://dmogdocs.readthedocs.io/en/latest/) - HW HPC
+- [dmog](https://dmogdocs.readthedocs.io/en/latest/) - HW High performance computing (HPC) documentation
 - [Linux explainer tool](https://explainshell.com/explain?cmd=ls+-lah) - Quick access to relevant documentation on linux commands
 
 <!-- ## RCCS tools -->
