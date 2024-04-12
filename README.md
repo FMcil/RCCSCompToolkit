@@ -26,7 +26,6 @@ Please feel free to contribute.
 - [Weight & biases](https://wandb.ai/) - Experiment platform tracking for ML models
 - [SHAP](https://shap.readthedocs.io/) - Model interpretability. Good explanation [here](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 
-
 ## Web
 
 - [Dash](https://plotly.com/examples/) - Web framework for interacting with data
@@ -51,7 +50,12 @@ Please feel free to contribute.
 
 - [PIL](https://pillow.readthedocs.io/en/stable/) - Image processing toolkit
 - [OpenCV](https://opencv.org/) - Image processing toolkit (+ ML)
-  
+
+## Scientific computing (modelling, optimization, etc)
+
+- [Scipy](https://docs.scipy.org/doc/scipy/tutorial/index.html) - Scientific modelling toolkit
+- [pymoo](https://pymoo.org/) - Optmization toolkit
+- [pyepal](https://github.com/kjappelbaum/pyepal) - Multiobjective optimization using active learning
 
 <!-- ## RCCS tools -->
 
