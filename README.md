@@ -2,6 +2,8 @@
 
 This repo contains tools and resources used by the RCCS research group.
 
+In each category, the resources are ordered by their applicability (more widely applicable resources are at the top).   
+
 Please feel free to contribute.
 
 ## Setup
