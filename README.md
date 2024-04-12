@@ -24,6 +24,8 @@ Please feel free to contribute.
 - [Sklearn](https://scikit-learn.org/stable/) - ML toolkit with wide variety of tools
 - [Pytorch-lightning](https://pytorch-lightning.readthedocs.io/) - Pytorch framework, more organised and easier to develop neural networks
 - [Weight & biases](https://wandb.ai/) - Experiment platform tracking for ML models
+- [SHAP](https://shap.readthedocs.io/) - Model interpretability. Good explanation [here](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+
 
 ## Web
 
