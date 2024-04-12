@@ -41,10 +41,17 @@ Please feel free to contribute.
 - [MOFDScribe](https://github.com/kjappelbaum/mofdscribe) - MOF characterisation toolkit
 - [moffragmentor](https://github.com/kjappelbaum/moffragmentor) - MOF fragementor toolkit
 
-## Cluster
+## High Performance Computing
 
 - [dmog](https://dmogdocs.readthedocs.io/en/latest/) - HW High performance computing (HPC) documentation
 - [Linux explainer tool](https://explainshell.com/explain?cmd=ls+-lah) - Quick access to relevant documentation on linux commands
+- [VSCode Remote Development Toolkit](https://code.visualstudio.com/docs/remote/remote-overview) - Interact with the cluster easily through VSCode using this extension
+
+## Image processing
+
+- [PIL](https://pillow.readthedocs.io/en/stable/) - Image processing toolkit
+- [OpenCV](https://opencv.org/) - Image processing toolkit (+ ML)
+  
 
 <!-- ## RCCS tools -->
 
