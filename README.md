@@ -59,6 +59,10 @@ Please feel free to contribute.
 - [pymoo](https://pymoo.org/) - Optmization toolkit
 - [pyepal](https://github.com/kjappelbaum/pyepal) - Multiobjective optimization using active learning
 
+## Python courses
+
+- [Datascience + ML](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) - Scientific python introduction
+
 <!-- ## RCCS tools -->
 
 <!-- - [Breakthrough analyser](https://github.com/FMcil/AdsorptionBreakthroughAnalysis) - Breakthrough analysis script for breakthrough rig -->
